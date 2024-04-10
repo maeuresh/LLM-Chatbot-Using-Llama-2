@@ -5,11 +5,11 @@ A LLM chatbot made using quantized Llama 2 model and Cricket World Cup Dataset.
 
 Download the Quantized LLama 2 Model form [here]( https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin) or click this link ->  https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin
 
-*Read the important.txt file first before running the code*
+>**Read the important.txt file first before running the code**
 
-*Install the requiremnts from the requirements.txt file*
+>**Install the requiremnts from the requirements.txt file**
 
-*Install FAISS package using the following command:* >conda install -c pytorch faiss-cpu=1.7.4 mkl=2021 blas=1.0=mkl
+>**Install FAISS package using the following command:** >conda install -c pytorch faiss-cpu=1.7.4 mkl=2021 blas=1.0=mkl
 
 For this LLM chatbot I have used:
 1) Sentence Transformers for embeddings
