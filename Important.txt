@@ -1,0 +1,6 @@
+Note: I installed FAISS using the Conda repo instead of Pypl
+
+Install FAISS package using the following command: conda install -c pytorch faiss-cpu=1.7.4 mkl=2021 blas=1.0=mkl
+
+Link for Quantized Llama 2 model: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin
+
