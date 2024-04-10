@@ -9,7 +9,7 @@ Download the Quantized LLama 2 Model form [here]( https://huggingface.co/TheBlok
 
 >**Install the requiremnts from the requirements.txt file**
 
->**Install FAISS package using the following command:** >conda install -c pytorch faiss-cpu=1.7.4 mkl=2021 blas=1.0=mkl
+>**Install FAISS package using the following command:** conda install -c pytorch faiss-cpu=1.7.4 mkl=2021 blas=1.0=mkl
 
 For this LLM chatbot I have used:
 1) Sentence Transformers for embeddings
