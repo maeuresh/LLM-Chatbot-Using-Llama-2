@@ -3,7 +3,7 @@ A LLM chatbot made using quantized Llama 2 model and Cricket World Cup Dataset.
 
 **Important**
 
-Download the Quantized LLama 2 Model form [here]( https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin) or click this link ->  https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin
+Download the Quantized LLama 2 Model from [here]( https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin) or click this link ->  https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_K_M.bin
 
 >**Run the code using:** *chainlit run model.py -w*
 
